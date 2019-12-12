@@ -75,6 +75,6 @@ app.post('/home', (req, res) => {
 
 export const start = () => {
   app.listen(4000, () => {
-    console.log('server is on 3k')
+    console.log('server is on 4k')
   })
 }
